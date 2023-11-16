@@ -8,6 +8,7 @@ answer = pow(A,b,p)
 
 print(answer)
 
+# this code bellow is form crypto hack decrypt.py
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 import hashlib
